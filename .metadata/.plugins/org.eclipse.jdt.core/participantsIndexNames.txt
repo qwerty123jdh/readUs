@@ -1,0 +1,13 @@
+INDEX VERSION 1.131
+C:\Users\Grad57\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4101696063.index
+\SessionManagement\src
+C:\Users\Grad57\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\45125702.index
+\MyApp\src
+C:\Users\Grad57\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3404182943.index
+\JSTLDemos\src
+C:\Users\Grad57\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2028093797.index
+\MyApp2\src
+C:\Users\Grad57\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3813084426.index
+\MyApp3\src
+C:\Users\Grad57\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\203433143.index
+\JSTLDemos\src
